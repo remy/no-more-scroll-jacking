@@ -2,9 +2,13 @@
 
 Prevents scroll jacking whilst a meta key is held.
 
+<img src="https://raw.githubusercontent.com/remy/no-more-scroll-jacking/master/img/preview.jpg" style="max-width: 100%">
+
 > Why isn't this turned on by default?
 
 Perhaps I'll get around to making this an option, but I know that it breaks some sites, so it's simpler to opt-in to the anti-scroll jacking. I've already gotten into the habit of holding shift when scrolling these nasties already!
+
+
 
 ## Icon
 
